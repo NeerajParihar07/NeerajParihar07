@@ -12,6 +12,8 @@ I am currently pursuing my Master’s in Computer Science at **Cornell Universit
 
 ---
 
+![Neeraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=NeerajParihar07&show_icons=true&theme=radical)
+
 ## 💼 **Professional Experience**
 - **Software Engineer II, American Express**  
   - Developed AI agents for transaction and dispute resolution, improving customer servicing time and achieving an 11.5% uplift in containment rate.  
